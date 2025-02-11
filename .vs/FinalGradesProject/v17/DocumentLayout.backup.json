@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\server\\lesson8\\FinalGradesProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\services\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\services\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\services\\grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\services\\grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\controllers\\studentsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\controllers\\studentsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|h:\\server\\lesson8\\finalgradesproject\\finalgradesproject\\finalgradesproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53245DB6-BC3B-424E-AE52-D22AACD7C572}|FinalGradesProject\\FinalGradesProject.csproj|solutionrelative:finalgradesproject\\finalgradesproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FinalGradesProject\\appsettings.Development.json",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\appsettings.Development.json",
+              "RelativeToolTip": "FinalGradesProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T17:06:05.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordManager.cs",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Services\\PasswordManager.cs",
+              "RelativeDocumentMoniker": "FinalGradesProject\\Services\\PasswordManager.cs",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Services\\PasswordManager.cs*",
+              "RelativeToolTip": "FinalGradesProject\\Services\\PasswordManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:58:41.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeManager.cs",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Services\\GradeManager.cs",
+              "RelativeDocumentMoniker": "FinalGradesProject\\Services\\GradeManager.cs",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Services\\GradeManager.cs",
+              "RelativeToolTip": "FinalGradesProject\\Services\\GradeManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:34:02.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\DataSource.cs",
+              "RelativeDocumentMoniker": "FinalGradesProject\\DataSource.cs",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\DataSource.cs",
+              "RelativeToolTip": "FinalGradesProject\\DataSource.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:09:55.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalGradesProject\\Program.cs",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Program.cs",
+              "RelativeToolTip": "FinalGradesProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:34:19.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Students.cs",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Students.cs",
+              "RelativeDocumentMoniker": "FinalGradesProject\\Students.cs",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Students.cs",
+              "RelativeToolTip": "FinalGradesProject\\Students.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:32:37.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Student.cs",
+              "RelativeDocumentMoniker": "FinalGradesProject\\Student.cs",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Student.cs",
+              "RelativeToolTip": "FinalGradesProject\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:10:21.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Grade.cs",
+              "RelativeDocumentMoniker": "FinalGradesProject\\Grade.cs",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\Grade.cs",
+              "RelativeToolTip": "FinalGradesProject\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:10:02.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsManagement.cs",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\controllers\\StudentsManagement.cs",
+              "RelativeDocumentMoniker": "FinalGradesProject\\controllers\\StudentsManagement.cs",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\controllers\\StudentsManagement.cs",
+              "RelativeToolTip": "FinalGradesProject\\controllers\\StudentsManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:09:14.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinalGradesProject.csproj",
+              "DocumentMoniker": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\FinalGradesProject.csproj",
+              "RelativeDocumentMoniker": "FinalGradesProject\\FinalGradesProject.csproj",
+              "ToolTip": "H:\\server\\lesson8\\FinalGradesProject\\FinalGradesProject\\FinalGradesProject.csproj",
+              "RelativeToolTip": "FinalGradesProject\\FinalGradesProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T15:05:07.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

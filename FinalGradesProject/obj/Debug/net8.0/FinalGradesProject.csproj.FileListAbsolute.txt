@@ -1,0 +1,185 @@
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.AssemblyInfoInputs.cache
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.AssemblyInfo.cs
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.csproj.CoreCompileInputs.cache
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.MvcApplicationPartsAssemblyInfo.cache
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.csproj.AssemblyReference.cache
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.exe
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.deps.json
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.runtimeconfig.json
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.pdb
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Text.Json.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.build.json
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.development.json
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.FinalGradesProject.Microsoft.AspNetCore.StaticWebAssets.props
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.build.FinalGradesProject.props
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinalGradesProject.props
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalGradesProject.props
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.pack.json
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\scopedcss\bundle\FinalGradesProject.styles.css
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGra.309A75E8.Up2Date
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\refint\FinalGradesProject.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.pdb
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.genruntimeconfig.cache
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\ref\FinalGradesProject.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.MvcApplicationPartsAssemblyInfo.cs
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\GradeDO.dll
+H:\server\lesson8\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\GradeDO.pdb
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\refint\FinalGradesProject.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.pdb
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.exe
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.deps.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.pdb
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Text.Json.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.csproj.AssemblyReference.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.MvcApplicationPartsAssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.MvcApplicationPartsAssemblyInfo.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.build.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.development.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.FinalGradesProject.Microsoft.AspNetCore.StaticWebAssets.props
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.build.FinalGradesProject.props
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinalGradesProject.props
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalGradesProject.props
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.pack.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\scopedcss\bundle\FinalGradesProject.styles.css
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGra.309A75E8.Up2Date
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\ref\FinalGradesProject.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.exe
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.deps.json
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.runtimeconfig.json
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\FinalGradesProject.pdb
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.AspNetCore.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\System.Text.Json.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.csproj.AssemblyReference.cache
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.AssemblyInfoInputs.cache
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.AssemblyInfo.cs
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.csproj.CoreCompileInputs.cache
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.MvcApplicationPartsAssemblyInfo.cs
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.MvcApplicationPartsAssemblyInfo.cache
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.build.json
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.development.json
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.FinalGradesProject.Microsoft.AspNetCore.StaticWebAssets.props
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.build.FinalGradesProject.props
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinalGradesProject.props
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalGradesProject.props
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\staticwebassets.pack.json
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\scopedcss\bundle\FinalGradesProject.styles.css
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGra.309A75E8.Up2Date
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\refint\FinalGradesProject.dll
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.pdb
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\FinalGradesProject.genruntimeconfig.cache
+H:\server\dniiiiiiiiiiiiiiiiiiiiiiiiiiii\אביגיל שלוש ומיכל ועקנין\FinalGradesProject\FinalGradesProject\obj\Debug\net8.0\ref\FinalGradesProject.dll
